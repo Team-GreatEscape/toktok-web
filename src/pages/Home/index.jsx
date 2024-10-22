@@ -1,5 +1,5 @@
 import * as S from "./style";
-import background from "../../assets/images/background.png";
+import background from "../../assets/images/background.svg";
 
 const Home = () => {
   return (
