@@ -1,6 +1,6 @@
 import React from "react";
 import useSignUp from "../../hooks/auth/useSignUp";
-import background from "../../assets/images/login-background.png";
+import background from "../../assets/images/login-background.svg";
 import * as S from "./style";
 
 const SignUp = () => {

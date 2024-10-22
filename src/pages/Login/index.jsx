@@ -1,6 +1,6 @@
 import React from "react";
 import useLogin from "../../hooks/auth/useLogin";
-import background from "../../assets/images/login-background.png";
+import background from "../../assets/images/login-background.svg";
 import * as S from "./style";
 
 const Login = () => {
